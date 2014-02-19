@@ -1,0 +1,9 @@
+Package: divisible
+Type: Package
+Title: Check if numbers are divisible
+Version: 1.0
+Date: 2014-02-19
+Author: DG <daroczig@rapporter.net>
+Maintainer: DG <daroczig@rapporter.net>
+Description: More about what it does (maybe more than one line)
+License: GPL
