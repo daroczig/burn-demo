@@ -1,6 +1,7 @@
 \name{is.odd}
+\alias{is.even}
 \alias{is.odd}
-\title{Is odd?}
+\title{Is odd or even?}
 \usage{
 is.odd(x)
 }
@@ -8,6 +9,6 @@ is.odd(x)
   \item{x}{numeric vector}
 }
 \description{
-Is odd?
+Is odd or even?
 }
 
